@@ -1,4 +1,4 @@
 # demo
 This is my first repo.
 <br>
-Author name - Ishita Goyal
+Author name - Ishita Goyal and Nayan Shrestha
